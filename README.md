@@ -1,4 +1,5 @@
-# calculator.pydef add(a, b):
+# calculator.py
+def add(a, b):
     return a + b
 
 def subtract(a, b):
